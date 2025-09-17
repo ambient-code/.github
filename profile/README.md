@@ -22,7 +22,7 @@ Breakthrough concepts in software engineering, arriving now.
 | Traditional Code Era | Ambient Code Era |
 |------------------------|------------------|
 | Written once, maintained forever | Generated fresh each time |
-| Stored in repositories | Created on-dema |
+| Stored in repositories | Created on-demand |
 | Human crafted | AI Generated |
 | Version controlled | Specification Controlled |
 | Debugged line by line | Validated through tests |
