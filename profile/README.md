@@ -2,7 +2,7 @@
 
 # 🌟 ambient-code
 
-**A paradigm where code is infinitely available and generated on-demand.**
+**A paradigm where code is infinitely available, and generated on-demand.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub followers](https://img.shields.io/github/followers/ambient-code?style=social)](https://github.com/ambient-code)
@@ -15,7 +15,8 @@
 
 Developers transition from meticulously crafting code to becoming "shepherds" of the codebase, focusing on establishing guidelines and policies that optimize project goals and wielding entire development teams themselves.
 
-Breakthrough concepts in software engineering, arriving now.
+We envision future software and hardware systems as a beehive of activity. Agents replacing autoscalers, replacing algorithms in order to constantly regenerate in every direction...north, south, east, west...coordinating things with each other, being as proactive as safely possible. The system is constantly regenerating itself.
+
 ---
 ### The Paradigm Shift
 
@@ -104,6 +105,5 @@ TDD + Spec-driven Development + CodeGen LLM + Human Developers + Function Cache 
 ---
 
 <div align="center">
-
-**Built with ❤️ by the ambient-code team**
+Built with ❤️ by the ambient-code team
 </div>
