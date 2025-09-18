@@ -11,9 +11,9 @@
 
 ---
 
-## 🎯 Ambient Code:
+## 🎯 Ambient Code
 
-Developers transition from meticulously crafting code to becoming "shepherds" of the codebase, focusing on establishing guidelines and policies that optimize project goals and wielding entire development teams themselves.
+In companies trending towards AI-first development, existing staff will transition from meticulously crafting code to becoming "shepherds" of codebases, focusing on establishing guidelines and policies that optimize project goals and wielding entire development teams themselves.
 
 We envision future software and hardware systems as a beehive of activity. Agents replacing autoscalers, replacing algorithms in order to constantly regenerate in every direction...north, south, east, west...coordinating things with each other, being as proactive as safely possible. The system is constantly regenerating itself.
 
@@ -43,11 +43,7 @@ We envision future software and hardware systems as a beehive of activity. Agent
 
 ### Making Ambient Code Real
 
-Today's technology stack enables ambient code through proven components working together:
-
-```
-TDD + Spec-driven Development + CodeGen LLM + Human Developers + Function Cache = Ambient Code
-```
+Today's technology stack enables ambient code concepts through proven components working together in the aggregate:
 
 | Component | Role in Ambient Code |
 |-----------|---------------------|
@@ -57,26 +53,27 @@ TDD + Spec-driven Development + CodeGen LLM + Human Developers + Function Cache 
 | **👥 Code Shepherds** | Humans orchestrating teams and validating systems |
 | **💾 Caching** | Patterns accelerating generation quality (tbd) |
 
-### Enterprise Problems Solved Now
-
-#### ✅ **Variance Eliminated**
+### ✅ **Variance Eliminated**
+- For vibe coding or POCs, variance is acceptable.
 - Specifications constrain generation possibilities
 - Tests validate every generated artifact
 - Only conforming code enters production
 
-#### ✅ **Coordination Simplified**
+### ✅ **Coordination Simplified**
+- The limited structure created by spec-kit ensures no input gaps
 - Tests become universal contracts
 - Specifications ensure team compatibility
 - Proven patterns guide consistent output
 
-#### ✅ **Support Revolutionized**
+### ✅ **Support Revolutionized**
+- This is the mindset shift
 - Support the system behavior, not its implementation
 - Any passing code is valid code
 - Focus shifts from debugging to optimization
 
 ---
 
-## 🚀 Building Ambient Code Today
+## 🚀 Progress on Ambient Code projects
 
 <div align="center">
 
@@ -86,23 +83,10 @@ TDD + Spec-driven Development + CodeGen LLM + Human Developers + Function Cache 
 
 | Component | Purpose | Implementation Status |
 |-----------|---------|---------------------|
-| **🔴 vTeam** | RFE Builder tooling, agent defintions, tools for collaboration | 🚧 Building Now |
-| **📋 spec-kit** | Toolkit from GitHub for building applications with TDD+SDD+LLM | 🚧 Building Now |
+| **🚀 vTeam** | RFE Builder tooling, agent defintions, tools for collaboration | 🚧 In Progress |
+| **📋 spec-kit-rh** | Toolkit from GitHub for building applications with TDD+SDD+LLM | 🚧 In Progress |
 | **🤖 Caching** | LLM integration optimized for policy-driven code production | 🚧 tbd |
-| **👥 Orchestration Platform** | Systems enabling developers to wield teams effectively | 🚧 Building Now |
-
-<div align="center">
-
-### Tools
-
-</div>
-
-| Tool | Empowers Developers To | Status |
-|------|---------------------|--------|
-| **📊 Team Analytics** | Optimize team performance and generation quality | ⚡ Active Development |
-| **🎼 Workflow Orchestrator** | Coordinate multiple teams as instruments | ⚡ Active Development |
-
----
+| **👥 Orchestration Platform** | Systems enabling developers to wield teams effectively | 🚧 In progress |
 
 <div align="center">
 Built with ❤️ by the ambient-code team
