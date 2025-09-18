@@ -2,7 +2,7 @@
 
 # 🌟 ambient-code
 
-**A paradigm where code is infinitely available and generated on-demand.**
+**A paradigm where code is infinitely available, and generated on-demand.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub followers](https://img.shields.io/github/followers/ambient-code?style=social)](https://github.com/ambient-code)
@@ -11,9 +11,11 @@
 
 ---
 
-## 🎯 Ambient Code:
+## 🎯 Ambient Code
 
 In companies trending towards AI-first development, existing staff will transition from meticulously crafting code to becoming "shepherds" of codebases, focusing on establishing guidelines and policies that optimize project goals and wielding entire development teams themselves.
+
+We envision future software and hardware systems as a beehive of activity. Agents replacing autoscalers, replacing algorithms in order to constantly regenerate in every direction...north, south, east, west...coordinating things with each other, being as proactive as safely possible. The system is constantly regenerating itself.
 
 ---
 ### The Paradigm Shift
@@ -21,7 +23,7 @@ In companies trending towards AI-first development, existing staff will transiti
 | Traditional Code Era | Ambient Code Era |
 |------------------------|------------------|
 | Written once, maintained forever | Generated fresh each time |
-| Stored in repositories | Created on-dema |
+| Stored in repositories | Created on-demand |
 | Human crafted | AI Generated |
 | Version controlled | Specification Controlled |
 | Debugged line by line | Validated through tests |
@@ -87,6 +89,5 @@ Today's technology stack enables ambient code concepts through proven components
 | **👥 Orchestration Platform** | Systems enabling developers to wield teams effectively | 🚧 In progress |
 
 <div align="center">
-
-**Built with ❤️ by the ambient-code team**
+Built with ❤️ by the ambient-code team
 </div>
