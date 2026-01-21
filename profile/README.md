@@ -83,7 +83,7 @@ Today's technology stack enables ambient code concepts through proven components
 
 | Component | Purpose | Implementation Status |
 |-----------|---------|---------------------|
-| **🚀 platform ** | A hosted platform for agentic coding, conversations and workflows | 🚧 In Testing |
+| **🚀 platform** | A hosted platform for agentic coding, conversations and workflows | 🚧 In Testing |
 | **📋 spec-kit-rh** | Toolkit from GitHub for building applications with TDD+SDD+LLM | 🚧 In Progress |
 | **🤖 Caching** | LLM integration optimized for policy-driven code production | 🚧 tbd |
 | **👥 Orchestration Platform** | Systems enabling developers to wield teams effectively | 🚧 In progress |
