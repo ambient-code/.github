@@ -15,7 +15,7 @@
 
 In companies trending towards AI-first development, existing staff will transition from meticulously crafting code to becoming "shepherds" of codebases, focusing on establishing guidelines and policies that optimize project goals and wielding entire development teams themselves.
 
-We envision future software and hardware systems as a beehive of activity. Agents replacing autoscalers, replacing algorithms in order to constantly regenerate in every direction...north, south, east, west...coordinating things with each other, being as proactive as safely possible. The system is constantly regenerating itself.
+We envision future software and hardware systems as a beehive of activity. Agents replacing autoscalers, replacing algorithms in order to constantly regenerate in every direction...north, south, east, west...coordinating things with each other, being as proactive as safely possible. The system is constantly evolving itself.
 
 ---
 ### The Paradigm Shift
@@ -24,9 +24,9 @@ We envision future software and hardware systems as a beehive of activity. Agent
 |------------------------|------------------|
 | Written once, maintained forever | Generated fresh each time |
 | Stored in repositories | Created on-demand |
-| Human crafted | AI Generated |
-| Version controlled | Specification Controlled |
-| Debugged line by line | Validated through tests |
+| Human crafted | AI Generated with human expertise |
+| Version controlled | Specification Controlled & architected |
+| Debugged line by line | Validated through tests and data  |
 | Static artifacts | Dynamic systems |
 
 ### The Code Shepherd
@@ -83,7 +83,7 @@ Today's technology stack enables ambient code concepts through proven components
 
 | Component | Purpose | Implementation Status |
 |-----------|---------|---------------------|
-| **🚀 vTeam** | RFE Builder tooling, agent defintions, tools for collaboration | 🚧 In Progress |
+| **🚀 platform ** | A hosted platform for agentic coding, conversations and workflows | 🚧 In Testing |
 | **📋 spec-kit-rh** | Toolkit from GitHub for building applications with TDD+SDD+LLM | 🚧 In Progress |
 | **🤖 Caching** | LLM integration optimized for policy-driven code production | 🚧 tbd |
 | **👥 Orchestration Platform** | Systems enabling developers to wield teams effectively | 🚧 In progress |
