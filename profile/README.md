@@ -88,7 +88,7 @@ Today's technology stack enables ambient code concepts through proven components
 | [**🌐 browser-extension**](https://github.com/ambient-code/browser-extension) | Chrome extension for managing ACP sessions | |
 | [**📱 mobile**](https://github.com/ambient-code/mobile) | ACP Mobile — React Native app for AI session management | HTML |
 
-> 📖 **[Platform User Guides](https://ambient-code.github.io/platform/)** — [What is Ambient?](https://ambient-code.github.io/platform/getting-started/what-is-ambient/) · [Quick Start](https://ambient-code.github.io/platform/getting-started/quick-start/) · [Core Concepts](https://ambient-code.github.io/platform/getting-started/core-concepts/) · [Workflows](https://ambient-code.github.io/platform/workflows/workflows/) · [CLI Reference](https://ambient-code.github.io/platform/getting-started/cli-reference/) · [Public API](https://ambient-code.github.io/platform/extensions/public-api/) · [Contributing](https://ambient-code.github.io/platform/development/contributing/)
+> 📖 **[Platform User Guides](https://ambient-code.github.io/platform/)** — [What is Ambient?](https://ambient-code.github.io/platform/getting-started/) · [Quick Start](https://ambient-code.github.io/platform/getting-started/quickstart-ui/) · [Core Concepts](https://ambient-code.github.io/platform/getting-started/concepts/) · [Workflows](https://ambient-code.github.io/platform/concepts/workflows/) · [CLI Reference](https://ambient-code.github.io/platform/getting-started/cli/) · [Public API](https://ambient-code.github.io/platform/extensions/public-api/)
 
 <div align="center">
 
