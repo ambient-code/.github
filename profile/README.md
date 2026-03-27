@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🌟 ambient-code
+# ambient-code
 
-**A paradigm where code is infinitely available, and generated on-demand.**
+### Stop writing code. Start shepherding it.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub followers](https://img.shields.io/github/followers/ambient-code?style=social)](https://github.com/ambient-code)
@@ -11,11 +11,11 @@
 
 ---
 
-## 🎯 Ambient Code
+## The Vision
 
-In companies trending towards AI-first development, existing staff will transition from meticulously crafting code to becoming "shepherds" of codebases, focusing on establishing guidelines and policies that optimize project goals and wielding entire development teams themselves.
+In AI-first development, engineers don't craft code line by line — they become **shepherds** of codebases, establishing guidelines and policies that optimize project goals, wielding entire agentic development teams as instruments.
 
-We envision future software and hardware systems as a beehive of activity. Agents replacing autoscalers, replacing algorithms in order to constantly regenerate in every direction...north, south, east, west...coordinating things with each other, being as proactive as safely possible. The system is constantly evolving itself.
+We see future systems as a beehive of activity: agents replacing autoscalers, replacing algorithms, constantly regenerating in every direction — coordinating with each other, being as proactive as safely possible. The system is constantly evolving itself.
 
 ---
 ### The Paradigm Shift
