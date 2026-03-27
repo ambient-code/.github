@@ -81,12 +81,12 @@ Today's technology stack enables ambient code concepts through proven components
 
 </div>
 
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [**🚀 platform**](https://github.com/ambient-code/platform) | Virtual team management and collaboration platform — [ambient-code.ai](https://ambient-code.ai) | Go | ⭐ 93 |
-| [**🔌 mcp**](https://github.com/ambient-code/mcp) | MCP server for ACP (Ambient Code Platform) | Python | |
-| [**🌐 browser-extension**](https://github.com/ambient-code/browser-extension) | Chrome extension for managing ACP sessions | | |
-| [**📱 mobile**](https://github.com/ambient-code/mobile) | ACP Mobile — React Native app for AI session management | HTML | ⭐ 1 |
+| Repository | Description | Language |
+|------------|-------------|----------|
+| [**🚀 platform**](https://github.com/ambient-code/platform) | Virtual team management and collaboration platform — [ambient-code.ai](https://ambient-code.ai) | Go |
+| [**🔌 mcp**](https://github.com/ambient-code/mcp) | MCP server for ACP (Ambient Code Platform) | Python |
+| [**🌐 browser-extension**](https://github.com/ambient-code/browser-extension) | Chrome extension for managing ACP sessions | |
+| [**📱 mobile**](https://github.com/ambient-code/mobile) | ACP Mobile — React Native app for AI session management | HTML |
 
 <div align="center">
 
@@ -94,14 +94,14 @@ Today's technology stack enables ambient code concepts through proven components
 
 </div>
 
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [**🔍 agentready**](https://github.com/ambient-code/agentready) | Repo Optimizer: Assess git repositories for AI-assisted development readiness | Python | ⭐ 117 |
-| [**📋 workflows**](https://github.com/ambient-code/workflows) | Schema'd, versioned file to express the entirety of team SDLC preferences | Shell | ⭐ 1 |
-| [**🧭 steering**](https://github.com/ambient-code/steering) | AI steering guidance generator — helps agents discover and use correct code abstractions | Python | ⭐ 2 |
-| [**⚡ ambient-action**](https://github.com/ambient-code/ambient-action) | GitHub Action that queries Langfuse for agent corrections and creates ACP improvement sessions | Python | ⭐ 2 |
-| [**👀 pull-reviews**](https://github.com/ambient-code/pull-reviews) | Pull request review tooling | TypeScript | |
-| [**🤖 amber**](https://github.com/ambient-code/amber) | Ambient Code Organization Agent | Python | |
+| Repository | Description | Language |
+|------------|-------------|----------|
+| [**🔍 agentready**](https://github.com/ambient-code/agentready) | Repo Optimizer: Assess git repositories for AI-assisted development readiness | Python |
+| [**📋 workflows**](https://github.com/ambient-code/workflows) | Schema'd, versioned file to express the entirety of team SDLC preferences | Shell |
+| [**🧭 steering**](https://github.com/ambient-code/steering) | AI steering guidance generator — helps agents discover and use correct code abstractions | Python |
+| [**⚡ ambient-action**](https://github.com/ambient-code/ambient-action) | GitHub Action that queries Langfuse for agent corrections and creates ACP improvement sessions | Python |
+| [**👀 pull-reviews**](https://github.com/ambient-code/pull-reviews) | Pull request review tooling | TypeScript |
+| [**🤖 amber**](https://github.com/ambient-code/amber) | Ambient Code Organization Agent | Python |
 
 <div align="center">
 
@@ -109,13 +109,13 @@ Today's technology stack enables ambient code concepts through proven components
 
 </div>
 
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [**📚 reference**](https://github.com/ambient-code/reference) | Ambient Code Reference Repository — AI-assisted development best practices | Python | ⭐ 8 |
-| [**🗺️ review-roadmap**](https://github.com/ambient-code/review-roadmap) | Ambient Code Review Roadmap | Python | ⭐ 2 |
-| [**🧩 session-config-reference**](https://github.com/ambient-code/session-config-reference) | Reference repo demonstrating every Claude Code session configuration surface | | |
-| [**📡 gps**](https://github.com/ambient-code/gps) | GPS — read-only MCP caching tier for org and engineering data | Python | ⭐ 1 |
-| [**🔗 mcp-atlassian**](https://github.com/ambient-code/mcp-atlassian) | MCP server for Atlassian tools (Confluence, Jira) | Python | |
+| Repository | Description | Language |
+|------------|-------------|----------|
+| [**📚 reference**](https://github.com/ambient-code/reference) | Ambient Code Reference Repository — AI-assisted development best practices | Python |
+| [**🗺️ review-roadmap**](https://github.com/ambient-code/review-roadmap) | Ambient Code Review Roadmap | Python |
+| [**🧩 session-config-reference**](https://github.com/ambient-code/session-config-reference) | Reference repo demonstrating every Claude Code session configuration surface | |
+| [**📡 gps**](https://github.com/ambient-code/gps) | GPS — read-only MCP caching tier for org and engineering data | Python |
+| [**🔗 mcp-atlassian**](https://github.com/ambient-code/mcp-atlassian) | MCP server for Atlassian tools (Confluence, Jira) | Python |
 
 <div align="center">
 
